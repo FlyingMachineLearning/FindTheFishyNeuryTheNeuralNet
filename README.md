@@ -1,0 +1,2 @@
+# FindTheFishyNeuryTheNeuralNet
+My First CNN
